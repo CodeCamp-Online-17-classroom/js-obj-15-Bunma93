@@ -13,3 +13,4 @@ const notebook = {
   storage: '512GB PCIe NVMe M.2 SSD'
 };
 ```
+-ปฏิพงษศกร บุญมา(เจมส์)
